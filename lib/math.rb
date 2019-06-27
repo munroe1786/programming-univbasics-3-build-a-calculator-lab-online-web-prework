@@ -39,5 +39,8 @@ num1 = "34"
 num2 = "5"
 
 def square_root(num)
-
+  puts Math.sqrt num
+  return Math.sqrt num
 end
+
+num = "81"
