@@ -27,7 +27,8 @@ def multiplication(num1, num2)
   return num1 * num2
 end
 
-num1 = ""
+num1 = "4"
+num2 = "30"
 
 def modulo(num1, num2)
 
