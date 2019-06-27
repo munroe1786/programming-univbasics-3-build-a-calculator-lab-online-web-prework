@@ -2,8 +2,8 @@ def addition(num1, num2)
   puts num1 + num2
 end
 
-num1 = 5
-num2 = 4
+num1 = "5"
+num2 = "4"
 
 def subtraction(num1, num2)
 
